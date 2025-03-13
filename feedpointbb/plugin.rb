@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-# name: discourse-folders
-# about: A plugin to organize posts into folders in Discourse
+# name: Feed Point Bulletin Board Pluginbu
+# about: A plugin to organize posts into bulletin folders in Discourse
 # version: 0.1
-# authors: Your Name
-# url: https://github.com/yourusername/discourse-folders
+# authors: Matthew R. Edelstein, Fort Lauderdale, FL
+# url: https://github.com/yourusername/feedpointbb
 
 enabled_site_setting :folders_enabled
